@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi, I'm Will Denby 👋
 
-<!--
-**WillDenby/WillDenby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager** for [twinLab](https://twinlab.ai)
 
-Here are some ideas to get you started:
+Here are some personal things I'm working on:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
