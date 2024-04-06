@@ -1,9 +1,19 @@
 ### Hi, I'm Will Denby 👋
 
-**Product Manager** for [twinLab](https://twinlab.ai)
+**Product Manager** for [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic ML.
 
-Here are some personal things I'm working on:
+**Writing**
 
+- [Make Python Faster](https://makepythonfaster)
+
+**Web Projects**
+
+- [Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A [Modal] cron job using the HN + Buttondown APIs. 
+- PolyGlot - A WhatsApp chatbot
+
+**Code Projects**
+
+**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
