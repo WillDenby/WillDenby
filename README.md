@@ -1,6 +1,6 @@
 ### Hi, I'm Will Denby 👋
 
-**Product Manager** for [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic ML.
+**Product Manager** for [twinLab](https://twinlab.ai), an AI tool for augmenting engineering workflows with Probabilistic ML.
 
 **Writing**
 
