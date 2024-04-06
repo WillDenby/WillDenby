@@ -2,7 +2,9 @@
 
 I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Bayesian Optimisation, GPs, PINNs).
 
-I also like technical documentation writing / demo / tutorial creation.
+- 🔭 I’m currently working on *What The Git*, a short guide to Git
+- 🌱 I’m currently learning Java and OCaml, and about SysAdmin on Linux
+- 📫 How to reach me: [hello@willdenby.com](mailto:hello@willdenby.com)
 
 **Writing**
 
@@ -15,15 +17,3 @@ I also like technical documentation writing / demo / tutorial creation.
 - [GrandTourer](https://pypi.org/project/GrandTourer/) - a Python CLI tool for launching GUI applications from the terminal on MacOS.
 - [Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses ```asyncio```.
 - [NowPy](https://pypi.org/project/nowpy) combines ```python```, ```virtualenv```, and ```pip``` in a single command to enable you to run any Python file(s) instantly. 
-
-**Code Projects**
-
-**
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
