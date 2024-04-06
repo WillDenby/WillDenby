@@ -10,7 +10,8 @@ I'm the **Product Manager** for [twinLab](https://twinlab.ai), an AI tool for au
 
 - [Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A Python [Modal](https://modal.com/docs/reference/modal.Cron) cron job using the [HN](https://github.com/HackerNews/API) + [Buttondown](https://docs.buttondown.email/api-reference/introduction) APIs. 
 - PolyGlot - A WhatsApp chatbot for translating between 70+ languages. Built with the [Twilio WhatsApp API](https://www.twilio.com/docs/whatsapp), [Cloudflare Workers/KV](https://developers.cloudflare.com/workers/), and [ChatGPT-3.5](https://platform.openai.com/docs/guides/text-generation). 
-- [GrandTourer](https://pypi.org/project/GrandTourer/) - a CLI tool for launching GUI applications from the terminal on MacOS. Written in Python.
+- [GrandTourer](https://pypi.org/project/GrandTourer/) - a Python CLI tool for launching GUI applications from the terminal on MacOS.
+- [Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website.
 
 - 
 **Code Projects**
