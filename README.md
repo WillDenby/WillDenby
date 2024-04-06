@@ -2,7 +2,7 @@
 
 I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Bayesian Optimisation, GPs, PINNs).
 
-- 🔭 I’m currently working on *What The Git*, a short guide to Git
+- 🔭 I’m currently writing *What The Git*, a short guide to Git
 - 🌱 I’m currently learning Java and OCaml, and about SysAdmin on Linux
 - 📫 How to reach me: [hello@willdenby.com](mailto:hello@willdenby.com)
 
