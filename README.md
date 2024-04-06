@@ -4,12 +4,12 @@
 
 **Writing**
 
-- [Make Python Faster](https://makepythonfaster.com)
+- [Make Python Faster](https://makepythonfaster.com) - A short book about ways to accelerate Python code.
 
-**Web Projects**
+**Projects**
 
-- [Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A [Modal] cron job using the HN + Buttondown APIs. 
-- PolyGlot - A WhatsApp chatbot
+- [Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A Python [Modal](https://modal.com/docs/reference/modal.Cron) cron job using the [HN](https://github.com/HackerNews/API) + [Buttondown](https://docs.buttondown.email/api-reference/introduction) APIs. 
+- PolyGlot - A WhatsApp chatbot for translating between 70+ languages. Built with the [Twilio WhatsApp API](https://www.twilio.com/docs/whatsapp), [Cloudflare Workers/KV](https://developers.cloudflare.com/workers/), and [ChatGPT-3.5](https://platform.openai.com/docs/guides/text-generation). 
 
 **Code Projects**
 
