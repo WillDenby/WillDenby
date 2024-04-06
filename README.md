@@ -4,7 +4,7 @@
 
 **Writing**
 
-- [Make Python Faster](https://makepythonfaster)
+- [Make Python Faster](https://makepythonfaster.com)
 
 **Web Projects**
 
