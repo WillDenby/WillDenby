@@ -1,6 +1,6 @@
 ### Hi, I'm Will Denby 👋
 
-**Product Manager** for [twinLab](https://twinlab.ai), an AI tool for augmenting engineering workflows with Probabilistic ML.
+I'n the **Product Manager** for [twinLab](https://twinlab.ai), an AI tool for augmenting engineering workflows with Probabilistic ML.
 
 **Writing**
 
@@ -10,7 +10,9 @@
 
 - [Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A Python [Modal](https://modal.com/docs/reference/modal.Cron) cron job using the [HN](https://github.com/HackerNews/API) + [Buttondown](https://docs.buttondown.email/api-reference/introduction) APIs. 
 - PolyGlot - A WhatsApp chatbot for translating between 70+ languages. Built with the [Twilio WhatsApp API](https://www.twilio.com/docs/whatsapp), [Cloudflare Workers/KV](https://developers.cloudflare.com/workers/), and [ChatGPT-3.5](https://platform.openai.com/docs/guides/text-generation). 
+- [GrandTourer](https://pypi.org/project/GrandTourer/) - a CLI tool for launching GUI applications from the terminal on MacOS. Written in Python.
 
+- 
 **Code Projects**
 
 **
