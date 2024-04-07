@@ -1,6 +1,6 @@
 ### Hi, I'm Will 👋
 
-I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Bayesian Optimisation, GPs, PINNs).
+I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Bayesian Optimisation).
 
 - 🔭 I’m currently writing *What The Git*, a short guide to Git
 - 🌱 I’m currently learning Java and OCaml, and about SysAdmin on Linux
