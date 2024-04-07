@@ -15,5 +15,5 @@ I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for
 - [🌅 Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A Python cron job on `Modal` using the `HN` + `Buttondown` APIs. 
 - 🌎 PolyGlot - A WhatsApp chatbot for translating between 70+ languages. Built with the `Twilio WhatsApp API`, `Cloudflare Workers/KV` serverless platform, and `ChatGPT-3.5`. 
 - [🏎️ GrandTourer](https://pypi.org/project/GrandTourer/) - a Python CLI tool for launching GUI applications from the terminal on MacOS.
-- [4️⃣0️⃣4️⃣ Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses `asyncio`.
+- [💀 Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses `asyncio`.
 - [💨 NowPy](https://pypi.org/project/nowpy) combines `python`, `virtualenv`, and `pip` in a single command to enable you to run any Python file(s) instantly. 
