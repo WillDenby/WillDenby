@@ -4,9 +4,8 @@ I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for
 
 In my spare time, I'm concentrating on:
 1. Tooling and data engineering in Python
-2. Building transaction systems and Spring Boot applications in Java.
+2. Building transaction systems and Spring Boot applications in Java
 
-- 🔭 I’m currently creating a portfolio backtesting tool to discourage myself from picking individual stocks...
 - ❤️ I love good documentation - "If a tree falls in a forest..."
 - 📫 How to reach me: connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
 
@@ -18,5 +17,6 @@ In my spare time, I'm concentrating on:
 - [💀 Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses `asyncio`.
 - [💨 NowPy](https://pypi.org/project/nowpy) combines `python`, `virtualenv`, and `pip` in a single command to enable you to run any Python file(s) instantly. 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+**Next Up**
 
+- 🔭 A portfolio backtesting tool to discourage myself from picking individual stocks...
