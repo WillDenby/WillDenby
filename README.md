@@ -2,7 +2,9 @@
 
 I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Bayesian Optimisation).
 
-In my spare time, I'm concentrating on tooling and data engineering in ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white); and building transaction systems and Spring Boot applications in Java.
+In my spare time, I'm concentrating on:
+1. Tooling and data engineering in Python
+2. Building transaction systems and Spring Boot applications in Java.
 
 - 🔭 I’m currently creating a portfolio backtesting tool to discourage myself from picking individual stocks...
 - ❤️ I love good documentation - "If a tree falls in a forest..."
