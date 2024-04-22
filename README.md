@@ -6,9 +6,9 @@ In my spare time, I'm concentrating on:
 1. Tooling and data engineering in Python
 2. Building transaction systems and Spring Boot applications in Java
 3. Completing some of John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
-4. Making contributions to documentation (especially [twinLab](https://twinlab.ai)): "If a tree falls in a forest"
+4. Making contributions to documentation (especially [twinLab](https://twinlab.ai)!): "If a tree falls in a forest"
 
-**Projects**
+**My Projects:**
 
 - [🐍 Make Python Faster](https://makepythonfaster.com) - A short book about how to accelerate your Python code.
 - [🏎️ GrandTourer](https://pypi.org/project/GrandTourer/) - a Python CLI tool for launching GUI applications from the terminal on MacOS.
@@ -16,8 +16,8 @@ In my spare time, I'm concentrating on:
 - [💀 Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses `asyncio`.
 - [💨 NowPy](https://pypi.org/project/nowpy) combines `python`, `virtualenv`, and `pip` in a single command to enable you to run any Python file(s) instantly. 
 
-**Next Up**
+**Next UpL**
 
 - 🔭 A portfolio backtesting tool to discourage myself from picking individual stocks...
 
-Feel free to connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
+### Feel free to connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
