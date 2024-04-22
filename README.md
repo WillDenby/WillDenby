@@ -5,9 +5,8 @@ I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for
 In my spare time, I'm concentrating on:
 1. Tooling and data engineering in Python
 2. Building transaction systems and Spring Boot applications in Java
-
-- ❤️ I love good documentation - "If a tree falls in a forest..."
-- 📫 How to reach me: connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
+3. Completing some of John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
+4. Making Open Source contributions to documentation: "If a tree falls in a forest"
 
 **Projects**
 
@@ -20,3 +19,5 @@ In my spare time, I'm concentrating on:
 **Next Up**
 
 - 🔭 A portfolio backtesting tool to discourage myself from picking individual stocks...
+
+Feel free to connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
