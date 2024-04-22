@@ -6,7 +6,6 @@ In my spare time, I'm concentrating on:
 1. Tooling and data engineering in Python
 2. Building transaction systems and Spring Boot applications in Java
 3. Completing some of John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
-4. Making contributions to documentation (especially [twinLab](https://twinlab.ai)!): "If a tree falls in a forest"
 
 **My Projects:**
 
