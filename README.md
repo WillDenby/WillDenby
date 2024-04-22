@@ -20,4 +20,4 @@ In my spare time, I'm concentrating on:
 
 - 🔭 A portfolio backtesting tool to discourage myself from picking individual stocks...
 
-### Feel free to connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
+### Connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
