@@ -17,6 +17,7 @@ In my spare time, I'm concentrating on:
 
 **John Crickett's Coding Challenges**
 - Build Your Own wc Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-wc) | [solution](https://github.com/WillDenby/willc))
+- Build Your Own Compression Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-huffman) | [solution](https://github.com/WillDenby/HuffHuff))
   
 **Next UpL**
 
