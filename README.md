@@ -15,7 +15,7 @@ In my spare time, I'm concentrating on:
 - [💀 Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses `asyncio`.
 - [💨 NowPy](https://pypi.org/project/nowpy) combines `python`, `virtualenv`, and `pip` in a single command to enable you to run any Python file(s) instantly. 
 
-**John Crickett's Coding Challenges**
+**Solutions to Coding Challenges**
 - Build Your Own wc Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-wc) | [solution](https://github.com/WillDenby/willc))
 - Build Your Own Compression Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-huffman) | [solution](https://github.com/WillDenby/HuffHuff))
   
