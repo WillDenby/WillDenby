@@ -5,9 +5,9 @@ I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for
 In my spare time, I'm concentrating on:
 1. Tooling and data engineering in Python
 2. Building systems and Spring Boot applications in Java
-3. Completing John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro)
+3. Completing John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro). 
 
-**Solutions to Coding Challenges**
+**Solutions**
 - Build Your Own wc Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-wc) | [solution](https://github.com/WillDenby/willc))
 - Build Your Own Compression Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-huffman) | [solution](https://github.com/WillDenby/HuffHuff))
   
