@@ -1,6 +1,6 @@
 ### Hi, I'm Will 👋
 
-I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Bayesian Optimisation).
+I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Gaussian Processes and Bayesian Optimisation).
 
 In my spare time, I'm concentrating on:
 1. Tooling and data engineering in Python
@@ -19,8 +19,8 @@ In my spare time, I'm concentrating on:
 - Build Your Own wc Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-wc) | [solution](https://github.com/WillDenby/willc))
 - Build Your Own Compression Tool ([challenge](https://codingchallenges.fyi/challenges/challenge-huffman) | [solution](https://github.com/WillDenby/HuffHuff))
   
-**Next UpL**
+**Next Up**
 
-- 🔭 A portfolio backtesting tool to discourage myself from picking individual stocks...
+- ⚖️ A Load Balancer
 
 ### Connect/message me on [LinkedIn](https://www.linkedin.com/in/will-denby/)
