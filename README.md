@@ -1,6 +1,6 @@
 ### Hi, I'm Will 👋
 
-I'm the **Product Manager** for [twinLab](https://twinlab.ai), a new AI tool for augmenting engineering workflows with Probabilistic ML (Gaussian Processes and Bayesian Optimisation).
+I'm the **Product Manager** for [twinLab](https://twinlab.ai), an AI tool for augmenting engineering workflows with Probabilistic ML (Gaussian Processes and Bayesian Optimisation).
 
 In my spare time, I'm concentrating on:
 1. Tooling and data engineering in Python
