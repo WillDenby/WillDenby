@@ -2,7 +2,7 @@
 
 I'm the **Product Manager** for [twinLab](https://twinlab.ai), an AI tool for augmenting engineering workflows with Probabilistic ML (Gaussian Processes and Bayesian Optimisation).
 
-In my spare time, I'm concentrating on:
+In my spare time, I enjoy making:
 1. Tooling and data engineering in Python
 2. Building systems and Spring Boot applications in Java
 3. Completing John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro). 
