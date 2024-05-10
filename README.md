@@ -14,8 +14,8 @@ In my spare time, I'm concentrating on:
 **Personal Projects:**
 
 - [🐍 Make Python Faster](https://makepythonfaster.com) - A short book about how to accelerate your Python code.
-- [🏎️ GrandTourer](https://pypi.org/project/GrandTourer/) - a Python CLI tool for launching GUI applications from the terminal on MacOS.
 - [🌅 Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A Python cron job + `HN`/`Buttondown` APIs. 
+- [🏎️ GrandTourer](https://pypi.org/project/GrandTourer/) - a Python CLI tool for launching GUI applications from the terminal on MacOS.
 - [💀 Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses `asyncio`.
 - [💨 NowPy](https://pypi.org/project/nowpy) combines `python`, `virtualenv`, and `pip` in a single command to enable you to run any Python file(s) instantly. 
 
