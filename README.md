@@ -1,10 +1,10 @@
 ### Hi, I'm Will 👋
 
-I'm the **Product Manager** for [twinLab](https://twinlab.ai), an AI tool for augmenting engineering workflows with Probabilistic ML (Gaussian Processes and Bayesian Optimisation).
+I'm the **Product Manager** for [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic AI.
 
-In my spare time, I enjoy making:
-1. Tooling and data engineering in Python
-2. Building systems and Spring Boot applications in Java
+In my spare time, I enjoy:
+1. Building Python Tooling
+2. Learning Java (/Spring)
 3. Completing John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro). 
 
 **Solutions**
@@ -16,7 +16,6 @@ In my spare time, I enjoy making:
 - [🐍 Make Python Faster](https://makepythonfaster.com) - A short book about how to accelerate your Python code.
 - [🌅 Morning Hackers](https://morninghackers.com) - Get the Hacker News front page, in your inbox, every day. A Python cron job + `HN`/`Buttondown` APIs. 
 - [🏎️ GrandTourer](https://pypi.org/project/GrandTourer/) - a Python CLI tool for launching GUI applications from the terminal on MacOS.
-- [💀 Py404](https://pypi.org/project/py404) - a Python CLI tool for finding deadlinks on a website. Uses `asyncio`.
 - [💨 NowPy](https://pypi.org/project/nowpy) combines `python`, `virtualenv`, and `pip` in a single command to enable you to run any Python file(s) instantly. 
 
 **Next Up**
