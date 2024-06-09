@@ -1,10 +1,10 @@
 ### Hi, I'm Will 👋
 
-I'm the **Product Manager** for [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic AI.
+I'm the **Product Manager** for [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic AI (Gaussian Processes and Bayesian Optimisation). This means helping engineers make better decisions, in shorter timeframes, without needing to collect as much expensive information. We do this by building real-time emulators of simulations, experiments, or sensor networks, even if data is sparse or uncertain. 
 
 In my spare time, I enjoy:
 1. Building Python Tooling
-2. Learning Java (/Spring)
+2. Learning Java
 3. Completing John Crickett's [Coding Challenges](https://codingchallenges.fyi/challenges/intro). 
 
 **Solutions**
